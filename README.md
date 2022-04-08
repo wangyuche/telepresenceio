@@ -11,3 +11,10 @@ telepresenceio有分兩個版本 V1.0(only mac) V2.0 (mac & windows)
 
 ## V2.0 教學
 
+telepresence connect <br>
+telepresence quit <br>
+telepresence uninstall --everything <br>
+telepresence intercept -n aaa a1 --port 8080:8080 <br>
+telepresence uninstall -n aaa --agent a1 <br>
+telepresence leave a1-aaa <br>
+telepresence list -n aaa <br>
